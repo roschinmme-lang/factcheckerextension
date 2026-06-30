@@ -4,7 +4,7 @@
  * history log, multi-language support, source credibility ratings.
  */
 
-const MISTRAL_API_KEY = "FEjqwCAyv6BQKrszGIbJIw4CqNtHUM4g";
+const MISTRAL_API_KEY = "MISTRALAPI";
 const MISTRAL_URL    = "https://api.mistral.ai/v1/chat/completions";
 const HISTORY_KEY    = "tl_history";
 const MAX_HISTORY    = 20;
